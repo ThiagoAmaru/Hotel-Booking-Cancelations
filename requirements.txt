@@ -1,0 +1,8 @@
+numpy            : 1.23.4
+optuna           : 3.1.1
+pandas           : 1.5.1
+pycountry_convert: 0.7.2
+seaborn          : 0.12.2
+pycountry        : 22.3.5
+json             : 2.0.9
+matplotlib       : 3.7.0
