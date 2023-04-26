@@ -1,4 +1,4 @@
-Versão em  [português (BR)](https://github.com/alyssonvidal/Rossmann-Sales-Forecast/blob/main/referenses/README_PT.md)
+[português (BR)](https://github.com/alyssonvidal/Hotel-Booking-Cancelations/blob/main/README_PT.md)
 
 <center><img src="/images/hotel.jpg" alt="logo" width="800" height="600"/></center>
 
@@ -16,14 +16,14 @@ This study contains informations about a Ciy Hotel and a Resort Hotel in the per
 * Present a possible business plan based on the results obtained.<br><br>
 
 # Development Stages
-[**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
+[**Data Preprocessing**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
 Loading Data, Dealing with Missing Values, Dealing with Duplicated Values, Dealing with Strange Values, Fixing Data Types, Featrue Engieneering.
 
 [**Exploratory Data Analysis**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part02_eda.ipynb)<br>
 Mind Map Business, Hypotesis, Summary Table, Bivariated Analysis over Cancelations, Multivariated Analysis.
 
 [**Data Preparation**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Encoding, Normalization, Feature Selection, Train-Test Split, Cross Validation.
+Encoding, Normalization, Feature Selection.<br><br>
 
 [**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
 Models: GBM, XGB, Pytorch<br><br>
@@ -32,19 +32,13 @@ Models: GBM, XGB, Pytorch<br><br>
 Optuna.<br><br>
 
 [**Feature Importance**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Filter method - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Game Theory - Shapley Values<br><br>
+Filter Methods - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Wrapper Methods - Shapley Values<br><br>
 
 
 # Reports
-Overall Business Report<br>
-Last Month Report<br>
-Model Performace Report<br>
-
-# Relatórios
-[**Resumo Técnico**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
-Overall Report
-Last Month Report
-Model Report
+[**Overall Report**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+[**Last Month Report**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+[**Model Report**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br><br>
 
 # Tools
 Languages: Python<br>
