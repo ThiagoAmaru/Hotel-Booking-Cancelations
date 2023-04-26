@@ -1,57 +1,53 @@
 Versão em  [português (BR)](https://github.com/alyssonvidal/Rossmann-Sales-Forecast/blob/main/referenses/README_PT.md)
 
-<center><img src="/images/hotel.jpg " alt="logo_hotel" width="450"/></center>
+<center><img src="/images/hotel.jpg" alt="logo" width="800" height="600"/></center>
 
-## Problem Statement
+# Problem Statement
 
-One of the common hotel problems facing sudden cancellations, this study contains a Hotel da Cidade and a Hotel Resort in the period from July 2015 to August 2017, both are staying in similar hotels in Portugal, City Hotel in Lisbon and Resort Hotel in Algarve, a coastal city. It was asked by the manager what are the main reasons that make customers cancel.
+One of the common main problems the hotels facing are cancellations. There are several problems due to cancellations, including: operational problems, replanning of tasks, inaccuracy in revenue forecasts, poor optimization of resources such as occupancy of rooms..
 
-## Objective
-**Main:**
-* Analyze the given database and create insights about the customers, the most chosen period for travel, the chosen package, the rooms, the food, etc.
-* Develop a machine learning mode capable of predict cancelations.
+This study contains informations about a Ciy Hotel and a Resort Hotel in the period between July 2015 and August 2017, the City Hotel is located in Lisbon, capital of Portugal and the Resort Hotel in Algarve, a coastal city also from Portugal.
 
-**Extra:**    
-* Transform manager excel sheets into sql files using sqlite3
 
-## Development Stages
-**Business Knowledge**<br>
-Deep study of features...
+# Objective
 
-**Data Preprocessing**<br>
-Dealing with missing, duplicated and bad values, fixing data types, feature engineering, data inputation...
+* Develop a machine learning model capable of predicting which customers are most likely to cancel a reservation
+* Identify which are the main features available in the database that identify whether the customer will cancel or not
+* Present a possible business plan based on the results obtained.<br><br>
 
-**Exploratory Data Analysis**<br>
-Descriptive statistics, hypothesis mental map, univariate, bivariate and multivariate analysis.
+# Development Stages
+[**Pré Processamento dos dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
+Loading Data, Dealing with Missing Values, Dealing with Duplicated Values, Dealing with Strange Values, Fixing Data Types, Featrue Engieneering.
 
-**Data Preparation**<br>
-Normalization, Standardization, Encoding, Outlines.
+[**Exploratory Data Analysis**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part02_eda.ipynb)<br>
+Mind Map Business, Hypotesis, Summary Table, Bivariated Analysis over Cancelations, Multivariated Analysis.
 
-**Machine Learning Model**<br>
-Logistic Regression, Random Forest, XGBoost, Voting Classifier, Pipelines.
+[**Data Preparation**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
+Encoding, Normalization, Feature Selection, Train-Test Split, Cross Validation.
 
-**Feature Selection**<br>
-Filter method - Anova, Chi2, Embeeded methods.
+[**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
+Models: GBM, XGB, Pytorch<br><br>
 
-**Hyperparameters Tunning**<br>
-Gridsearch Cross Validation.
-    
-**Deploy**<br>
+[**Hypertuning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
+Optuna.<br><br>
 
-    
-## Reports
-Project Presentation<br>
-Business Avaliation<br>
-Model Performace<br>
+[**Feature Importance**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
+Filter method - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Game Theory - Shapley Values<br><br>
 
-## Tools
+
+# Reports
+Overall Business Report<br>
+Last Month Report<br>
+Model Performace Report<br>
+
+# Relatórios
+[**Resumo Técnico**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>
+Overall Report
+Last Month Report
+Model Report
+
+# Tools
 Languages: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
-Libraries: Pandas, Matplotlib, Seaborn, Sklearn, statsmodel<br>
-Frameworks: <br>
-Deploy: <br>
-Methodology: CRISP-DM<br>
-
-*** 
-
-## Brefing 
+Frameworks: Pandas, Matplotlib, Seaborn, Sklearn, Pytorch<br>
+Metodology: CRISP-DM<br><br>
