@@ -12,7 +12,7 @@ This study contains informations about a Ciy Hotel and a Resort Hotel in the per
 # Objective
 
 * Develop a machine learning model capable of predicting which customers are most likely to cancel a reservation
-* Identify which are the main features available in the database that identify whether the customer will cancel or not
+* Identify which are the main features available in the database that identify whether the customer will cancel or not.
 * Present a possible business plan based on the results obtained.<br><br>
 
 # Development Stages
@@ -23,17 +23,16 @@ Loading Data, Dealing with Missing Values, Dealing with Duplicated Values, Deali
 Mind Map Business, Hypotesis, Summary Table, Bivariated Analysis over Cancelations, Multivariated Analysis.
 
 [**Data Preparation**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Encoding, Normalization, Feature Selection.<br><br>
+Encoding, Normalization, Feature Selection.
 
 [**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Models: GBM, XGB, Pytorch<br><br>
+Models: GBM, XGB, Pytorch.
 
 [**Hypertuning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Optuna.<br><br>
+Optuna.
 
 [**Feature Importance**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
 Filter Methods - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Wrapper Methods - Shapley Values<br><br>
-
 
 # Reports
 [**Overall Report**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/reports/resultados.md)<br>

@@ -1,4 +1,4 @@
-Versão em  [português (BR)](https://github.com/alyssonvidal/Rossmann-Sales-Forecast/blob/main/referenses/README_PT.md)
+[English (EN)](https://github.com/alyssonvidal/Hotel-Booking-Cancelations/blob/main/README_PT.md)
 
 <center><img src="/images/hotel.jpg" alt="logo" width="800" height="600"/></center>
 
@@ -17,22 +17,22 @@ Este estudo contém informações sobre um Ciy Hotel e um Resort Hotel no perío
 
 # Estagios de Desenvolvimento
 [**Pré Processamento dos Dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part01_preprocessing.ipynb)<br>
-Carregamento dos dados, tratamento de dados faltantes, tratamento de dados0 duplicados, tratamento de dados inconsistentes, tratamento de tipo de variavel, tratamento de variáveis.<br><br>
+Carregamento dos dados, tratamento de dados faltantes, tratamento de dados0 duplicados, tratamento de dados inconsistentes, tratamento de tipo de variavel, tratamento de variáveis.
 
 [**Exploratory Data Analysis**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part02_eda.ipynb)<br>
 Mapa Mental do Negócio, Hipoteses, Tabela Resumo, Analise Bivariada Sobre o Cancelamento, Analise Multivariada.
 
 [**Preparação dos Dados**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Decodificação, Normalização, Seleção de Variaveis.<br><br>
+Decodificação, Normalização, Seleção de Variaveis.
 
 [**Modelo de Machine Learning**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Modelos: GBM, XGB, Pytorch<br><br>
+Modelos: GBM, XGB, Pytorch.
 
 [**Ajuste Fino**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Optuna.<br><br>
+Optuna.
 
 [**Importancia das Variáveis**](https://github.com/alyssonvidal/Bank-Marketing-Cluster/blob/main/notebooks/part03_model.ipynb)<br>
-Filter Methods - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Wrapper Methods - Shapley Values<br><br>
+Filter Methods - Anova, Chi2, Embeeded Methods - LGBM, XGboost, Wrapper Methods - Shapley Values.<br><br>
 
 
 # Relatórios
