@@ -45,3 +45,10 @@ Languages: Python<br>
 IDE: Visual Studio Code, Jupyter Notebook<br>
 Frameworks: Pandas, Matplotlib, Seaborn, Sklearn, Pytorch<br>
 Metodology: CRISP-DM<br><br>
+
+# Next Steps
+- Check some features issues: the deposit_type has the wrong values on this dataset ​​and it is certainly an important feature to determine whether or not the guest will cancel. The status_reservation_date could be broken down into other variables so that we would not lose the date the check-in was performed, which can be an important feature.
+
+- Get to know agencies and companies better. Perhaps a ranking system for these agencies and companies would benefit the machine learning model. With the current information we have, it is not possible to know with much criteria the quality of agencies and companies.
+
+
