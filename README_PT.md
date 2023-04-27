@@ -1,4 +1,4 @@
-[English (EN)](https://github.com/alyssonvidal/Hotel-Booking-Cancelations/blob/main/README_PT.md)
+[English (EN)](https://github.com/alyssonvidal/Hotel-Booking-Cancelations/blob/main/README.md)
 
 <center><img src="/images/hotel.jpg" alt="logo" width="800" height="600"/></center>
 
